@@ -1,4 +1,6 @@
 # swingserene.github.io
+![Logistic](WeChat46d10701dfeff71da8147957d31ddff4.jpg)
+
 
 **Data Analytics | Machine Learning | AI-Assisted Workflows**  
 Graduate Student, Data Analytics & Computational Social Science 
@@ -16,6 +18,8 @@ I enjoy working on projects that connect data to real-world questions. I’m esp
 *(Work in progress — more coming soon)*
 
 ### 1. Credit Risk Analysis Using Logistic Regression
+![Logistic Regression Visualization](WeChata7ad517aaeffe1dd1108aafc89980612.jpg)
+
 A Python classification project exploring how demographic and financial variables relate to credit card default using the UCI dataset.  
 **What I learned:**  
 - Setting up a basic ML workflow  
